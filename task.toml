@@ -1,8 +1,8 @@
 version = "2.0"
 
 [metadata]
-author_name = "scaffold"
-difficulty = "unknown"
+author_name = "Pradeep Nandwani"
+difficulty = "medium"
 category = "security"
 subcategories = [
     "api_integration",
